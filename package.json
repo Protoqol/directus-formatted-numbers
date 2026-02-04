@@ -1,33 +1,33 @@
 {
-  "name"              : "@protoqol/directus-extension-formatted-numbers",
-  "license"           : "MIT",
-  "description"       : "Directus extension: Format numbers in a easily readable way. With localisation available!",
-  "icon"              : "forward_media",
-  "version"           : "1.0.0",
-  "keywords"          : [
+  "name": "@protoqol/directus-extension-formatted-numbers",
+  "license": "MIT",
+  "description": "Directus extension: Format numbers in a easily readable way. With localisation available!",
+  "icon": "forward_media",
+  "version": "1.0.1",
+  "keywords": [
     "directus",
     "directus-extension",
     "directus-extension-display"
   ],
-  "type"              : "module",
-  "files"             : [
+  "type": "module",
+  "files": [
     "dist"
   ],
   "directus:extension": {
-    "type"  : "display",
-    "path"  : "dist/index.js",
+    "type": "display",
+    "path": "dist/index.js",
     "source": "src/index.ts",
-    "host"  : "^10.10.0"
+    "host": "^10.10.0"
   },
-  "scripts"           : {
-    "build"   : "directus-extension build",
-    "dev"     : "directus-extension build -w --no-minify",
-    "link"    : "directus-extension link",
+  "scripts": {
+    "build": "directus-extension build",
+    "dev": "directus-extension build -w --no-minify",
+    "link": "directus-extension link",
     "validate": "directus-extension validate"
   },
-  "devDependencies"   : {
+  "devDependencies": {
     "@directus/extensions-sdk": "17.0.5",
-    "typescript"              : "^5.9.3",
-    "vue"                     : "^3.5.27"
+    "typescript": "^5.9.3",
+    "vue": "^3.5.27"
   }
 }
