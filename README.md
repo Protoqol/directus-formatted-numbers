@@ -1,6 +1,7 @@
 ![Title card](https://cms.protoqol.nl/assets/6942cfbd-13b3-4a6c-9d85-fd67697295a8)
 
 ![NPM](https://img.shields.io/npm/v/%40protoqol%2Fdirectus-extension-formatted-numbers)
+![NPM](https://img.shields.io/github/actions/workflow/status/protoqol/directus-extension-formatted-numbers/publish.yml)
 
 ## Features
 
