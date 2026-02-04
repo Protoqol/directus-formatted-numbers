@@ -1,5 +1,5 @@
 {
-  "name"              : "@protoqol/directus-formatted-numbers",
+  "name"              : "@protoqol/directus-extension-formatted-numbers",
   "license"           : "MIT",
   "description"       : "Directus extension: Format numbers in a easily readable way. With localisation available!",
   "icon"              : "forward_media",
