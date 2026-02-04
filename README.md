@@ -1,7 +1,6 @@
-# Directus Extension: Formatted Numbers
+![Title card](https://cms.protoqol.nl/assets/6942cfbd-13b3-4a6c-9d85-fd67697295a8)
 
-A custom display extension for Directus that provides highly readable, localised, and abbreviated number formatting.
-Perfect for dashboards and tables where space is limited or where accurate numbers are not a must.
+![NPM](https://img.shields.io/npm/v/%40protoqol%2Fdirectus-extension-formatted-numbers)
 
 ## Features
 
@@ -10,6 +9,16 @@ Perfect for dashboards and tables where space is limited or where accurate numbe
   Billions, `億` for Japanese). Configure via the "Localisation" field option.
 - **Full Value Tooltip**: Hover over any abbreviated number to see the exact, unformatted value in a tooltip.
 - **Customisable Appearance**: Add custom prefixes (like currency symbols) and suffixes.
+
+## Installation
+
+In your Directus installation root:
+
+```bash
+npm install @protoqol/directus-extension-formatted-numbers
+```
+
+or via Directus Marketplace (when available).
 
 ## Configuration Options
 
@@ -28,6 +37,8 @@ When configuring a field to use the "Formatted numbers" display, you can customi
 - **Suffix**: Add text or symbols after the number (e.g., ` units`, ` EUR`).
 
 ## Examples
+
+![Preview](https://cms.protoqol.nl/assets/b368be2b-2acb-4e2a-be9e-228873ea651f)
 
 | Raw Value             | Config            | Output      |
 |:----------------------|:------------------|:------------|
