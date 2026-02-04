@@ -1,7 +1,7 @@
 {
-  "name"              : "formatted-numbers",
+  "name"              : "@protoqol/directus-formatted-numbers",
   "license"           : "MIT",
-  "description"       : "Format numbers in a easily readable way. For example: 14324323 becomes 14.3M. With localisation available!",
+  "description"       : "Directus extension: Format numbers in a easily readable way. With localisation available!",
   "icon"              : "forward_media",
   "version"           : "1.0.0",
   "keywords"          : [
