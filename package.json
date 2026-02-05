@@ -3,7 +3,7 @@
   "license"           : "MIT",
   "description"       : "Directus extension: Format numbers in a easily readable way. With localisation available!",
   "icon"              : "forward_media",
-  "version"           : "1.0.2",
+  "version"           : "1.0.3",
   "keywords"          : [
     "directus",
     "directus-extension",
@@ -17,7 +17,7 @@
     "type"  : "display",
     "path"  : "dist/index.js",
     "source": "src/index.ts",
-    "host"  : "^10.10.0"
+    "host"  : ">=10.10.0"
   },
   "scripts"           : {
     "build"   : "directus-extension build",
