@@ -13,13 +13,10 @@
 
 ## Installation
 
-In your Directus installation root:
+There are a few different ways to install this extension:
 
-```bash
-npm install @protoqol/directus-extension-formatted-numbers
-```
-
-or via Directus Marketplace (when available).
+- Via Directus Marketplace (recommended)
+- Self-hosted: see [Directus Docs](https://directus.io/docs/self-hosting/including-extensions) to install extensions.
 
 ## Configuration Options
 
