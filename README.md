@@ -1,4 +1,4 @@
-![Title card](./.github/assets/title_card.png)
+![Title card](https://raw.githubusercontent.com/Protoqol/directus-extension-formatted-numbers/main/.github/assets/title_card.png)
 
 ![NPM](https://img.shields.io/npm/v/%40protoqol%2Fdirectus-extension-formatted-numbers)
 ![NPM](https://img.shields.io/github/actions/workflow/status/protoqol/directus-extension-formatted-numbers/publish.yml)
@@ -46,7 +46,7 @@ When configuring a field to use the "Formatted numbers" display, you can customi
 
 ## Examples
 
-![Preview](https://cms.protoqol.nl/assets/b368be2b-2acb-4e2a-be9e-228873ea651f?v=3)
+![Preview](https://raw.githubusercontent.com/Protoqol/directus-extension-formatted-numbers/refs/heads/main/.github/assets/preview.png)
 
 | Raw Value             | Config            | Output      |
 |:----------------------|:------------------|:------------|
@@ -80,4 +80,5 @@ Please open an issue on this repository. We're happy to hear back from you!
 ---
 
 Developed by [Protoqol](https://protoqol.nl/).
+
 
