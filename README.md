@@ -1,4 +1,4 @@
-![Title card](https://cms.protoqol.nl/assets/6942cfbd-13b3-4a6c-9d85-fd67697295a8)
+![Title card](./.github/assets/title_card.png)
 
 ![NPM](https://img.shields.io/npm/v/%40protoqol%2Fdirectus-extension-formatted-numbers)
 ![NPM](https://img.shields.io/github/actions/workflow/status/protoqol/directus-extension-formatted-numbers/publish.yml)
@@ -17,9 +17,12 @@
 
 There are a few different ways to install this extension:
 
-- (Recommended) Via Directus Marketplace search for `formatted-numbers` or go to
-  `{{ YOUR_DIRECTUS_URL }}/admin/settings/marketplace/extension/bcbadf1e-c666-4351-b6f0-d914f62a3c53`
+- (Recommended) Via Directus Marketplace search for `formatted-numbers`
+- Go to `YOUR_DIRECTUS_URL/admin/settings/marketplace/extension/bcbadf1e-c666-4351-b6f0-d914f62a3c53` and install
+  from there
 - Self-hosted: see [Directus Docs](https://directus.io/docs/self-hosting/including-extensions) to install extensions.
+
+> Note: You might need to set the following environment variable: `MARKETPLACE_TRUST: all`
 
 ---
 
